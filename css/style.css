@@ -1,0 +1,178 @@
+/*======font-family: 'Raleway', sans-serif;======*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&display=swap');
+
+/*======font-family: 'Exo 2', sans-serif;======*/
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700;900&display=swap');
+
+body{
+	font-family: "Exo 2";
+}
+.title{
+	font-family: Raleway, sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+header .title {
+	font-size: 36px;
+	color: rgb(24, 172, 24);
+	text-align: center;
+	text-shadow: 1px 1px 5px #000;
+	letter-spacing: 5px;
+	margin-top: 10px;
+}
+.block-text-values .block-item{
+	text-align: right;
+	margin: 20px 40px 10px 0px;
+}
+.block-item {
+	font-family: "Exo 2";
+	font-style: normal;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1.9px;
+	text-decoration: underline;
+}
+.item-syb {
+	color: rgb(66, 63, 63);
+	padding-top: 9px;
+}
+h2.title {
+	font-size: 26px;
+	color: orange;
+	margin-left: 150px;
+	margin-bottom: 20px;
+}
+.small-text {
+	margin: 0px 100px;
+	text-indent: 20px;
+	text-transform: capitalize;
+	font-size: 20px;
+	line-height: 1.2;
+
+}
+.block-item-number {
+	text-align: center;
+	padding: 20px 0;
+}
+.item-num {
+	color:blueviolet;
+	font-style: normal;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding-top: 5px;
+}
+.lots-text {
+	font-family: Raleway, sans-serif;
+	font-style: normal;
+	line-height: 1.1;
+	margin: 0px 10px 20px 10px;
+	text-indent: 10px;
+}
+h3.title {
+	font-size: 26px;
+	color: rgb(97, 68, 15);
+	text-align: right;
+	margin-right: 100px;
+	margin-bottom: 20px;
+	letter-spacing: 8px;
+}
+.string {
+	font-size: 20px;
+	width: 50px;
+	text-align: right;
+	margin-left: 50px;
+	text-transform: lowercase;
+	text-decoration: line-through;
+}
+
+.block-test-selectors {
+	color: blue;
+}
+h4.title {
+	font-size: 30px;
+	color: rgb(30, 4, 71);
+	text-align: center;
+	letter-spacing: 18px;
+	padding-bottom: 50px;
+}
+.more-text {
+	padding: 0 10px 10px 10px;
+	font-size: 12px;
+	text-transform: lowercase;
+	line-height: 1.1;
+}
+.string-two {
+	text-transform: uppercase;
+	color: rgb(194, 191, 189);
+	text-shadow: 5px 0px 20px #000;
+	margin-left: 50px;
+}
+.block-item-image {
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
+.block-link-list {
+	text-align: right;
+	margin-right: 50px;
+	padding-top: 5px;
+}
+h5.title {
+	font-size: 30px;
+	color: rgb(150, 0, 75);
+	text-align: center;
+	text-decoration: underline;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.list-for-link{
+	padding-bottom: 5px;
+	color: rgba(252, 0, 0, 0.664);
+	font-size: 20px;
+	font-weight: 900;
+}
+.block-image {
+	padding-top: 40px;
+	width: 100%;
+	margin: 0 20px;
+}
+.lesson-learnd {
+	padding: 20px 0;
+	font-family: Raleway, sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+	color: gold;
+	letter-spacing: 15px;
+	text-align: center;
+	font-size: 30px;
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
